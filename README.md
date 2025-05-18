@@ -1,1 +1,2 @@
-Machine Learning Project
+Machine Learning Project - Learning Linear Regression
+
